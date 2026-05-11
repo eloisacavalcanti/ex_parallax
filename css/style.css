@@ -147,8 +147,8 @@ body, html{
 }
 
 #imagemSeta{
-  width: 35px;
-  height: 35px;
+  width: 45px;
+  height: 45px;
 }
 
 @media(max-width:568px){
